@@ -1,0 +1,19 @@
+.epic {
+    background-color:pink;
+    font-family:Verdana, DejaVU Sans, sans-serif;
+}
+
+.epic.cool {
+    font-size: 24px;
+}
+
+#dope {
+    color: blue;
+    font-size: 36px;
+}
+
+#swag {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
