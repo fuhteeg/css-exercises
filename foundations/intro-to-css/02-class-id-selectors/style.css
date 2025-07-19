@@ -3,7 +3,8 @@
     font-family:Verdana, DejaVU Sans, sans-serif;
 }
 
-.epic.cool {
+.epic,
+.cool {
     font-size: 24px;
 }
 
